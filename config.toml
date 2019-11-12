@@ -1,5 +1,5 @@
 title = "Vasconomics"
-baseURL = ""
+baseURL = "https://friendly-jones-956a4f.netlify.com/"
 disqusShortname=""
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
