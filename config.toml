@@ -1,5 +1,5 @@
 title = "Vasconomics"
-baseURL = "https://example.vasconomics.com"
+baseURL = ""
 disqusShortname=""
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
