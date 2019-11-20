@@ -1,5 +1,5 @@
 ---
-date: 2019-11-17
+date: 2019-11-10
 description: "What's the country with most Vegetarians?"
 featured_image: "Vegetarians_in_the_World/Veggie_Cover.jpg"
 tags: []
