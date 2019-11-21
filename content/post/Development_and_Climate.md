@@ -1,7 +1,7 @@
 ---
 date: 2019-11-19
 description: "I want to live in a warm and developed country! Where do I go?"
-featured_image: "Development_and_Climate/paradise-island.jpg"
+featured_image: "uploads/Development_and_Climate/paradise-island.jpg"
 tags: ["Economy", "Climate"]
 title: "Development and Climate"
 author: "Vasco Laranjo"

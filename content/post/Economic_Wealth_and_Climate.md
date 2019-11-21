@@ -1,7 +1,7 @@
 ---
 date: 2019-11-14
 description: "Are the richest countries always colder than poor countries?"
-featured_image: "Economic_Wealth_and_Climate/Golden-Beach.jpg"
+featured_image: "uploads/Economic_Wealth_and_Climate/Golden-Beach.jpg"
 tags: ["Economy", "Climate"]
 title: "Economic Wealth and Climate"
 author: "Vasco Laranjo"

@@ -1,9 +1,9 @@
 ---
 title: "About"
-featured_image: 'images/stock_market.jpg'
+featured_image: 'uploads/images/stock_market.jpg'
 description: ""
 ---
-{{< figure src="/images/tulip-mania.jpg" title="Vasco Laranjo" >}}
+{{< figure src="/uploads/images/tulip-mania.jpg" title="Vasco Laranjo" >}}
 
 Hello, welcome to my blog!
 <P> I'm Vasco, a Portuguese Economist with a passion for Ecomics, Financial Markets and Data Analytics. <P>
