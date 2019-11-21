@@ -5,6 +5,7 @@ featured_image: "uploads/Vegetarians_in_the_World/Veggie_Cover.jpg"
 tags: []
 title: "Vegetarianism in the World"
 author: "Vasco Laranjo"
+comments: true
 ---
 Vegetarianism!
 

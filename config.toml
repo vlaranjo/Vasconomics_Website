@@ -1,6 +1,6 @@
 title = "Vasconomics"
 baseURL = "https://vasconomics.com/"
-disqusShortname=""
+disqusShortname="blog-vasconomics"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
