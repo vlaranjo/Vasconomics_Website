@@ -6,7 +6,7 @@ tags: ["Economy", "Climate"]
 title: "Development and Climate"
 author: "Vasco Laranjo"
 ---
-I hope you enjoyed my pervious [article] () about the relationship between Economic Wealth and Climate.
+I hope you enjoyed my pervious [article] (https://vasconomics.com/post/economic_wealth_and_climate/) about the relationship between Economic Wealth and Climate.
 
 In this article, I intend to talk about a related but different concept: Human Development!
 
