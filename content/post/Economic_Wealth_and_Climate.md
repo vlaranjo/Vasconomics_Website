@@ -6,7 +6,7 @@ tags: ["Economy", "Climate"]
 title: "Economic Wealth and Climate"
 author: "Vasco Laranjo"
 ---
-When in university in the early 2010's in Portugal, me and my colleagues would discuss whether all the richest countries had to be the ones with the worse weather. The worse weather for us represented cold temperatures and this vision made sense for us based on a Southern European country and glancing at Northern counterparts, such as Germany or Norwar.
+When in university in the early 2010's in Portugal, me and my colleagues would discuss whether all the richest countries had to be the ones with the worse weather. The worse weather for us represented cold temperatures and this vision made sense for us based on a Southern European country and glancing at Northern counterparts, such as Germany or Norway.
 
 However, we always kept one country in our mind: Australia!
 
@@ -45,7 +45,7 @@ Finally, let's compare Wealth by using the metric **GDP per Capita PPP** among c
 Below you will see a scatter plot where each circle represents a country and is placed according to its GDP per Capita PPP (in Thousands of $) and the Temperature (average annual in Celsius).
 Also, for the reader's convenience, the different colours represent the different continent where a country belongs.
 
-Note that, the data presented is an average between 2010-2016 values, when available. It was decided to take the average, to avoid overstating the figures on speficially warm years for some countries.
+Note that, the data presented is an average between 2010-2016 values, when available. It was decided to take the average, to avoid overstating the figures on specifically warm years for some countries.
 
 Tip: zoom available in the left-bottom corner.
 
@@ -74,13 +74,13 @@ Since climate is not only about warm temperatures, I decided to repeat this exer
 In this plot we picture some similarities but also some differences to the pervious one:
 
 * Again, there seems to be a negative relationship between Wealth and Rainfall, though to a lesser extent;
-* The European countries seem to occupy again a center place in the plot;
+* The European countries seem to occupy again a centre place in the plot;
 * The Middle East wealthy countries, passed from the right top side to the left top side, since it rarely rains in the desert;
 * The African countries now seem to be more widespread along the horizontal axis, although they are generally close to the floor.
 
 Australia:
 
-* Occupies a desirable position within the area of the wealthies EU nations with a similar profile to Sweden.
+* Occupies a desirable position within the area of the wealthiest EU nations with a similar profile to Sweden.
 
 Portugal:
 

@@ -5,7 +5,6 @@ featured_image: "uploads/Vegetarians_in_the_World/Veggie_Cover.jpg"
 tags: []
 title: "Vegetarianism in the World"
 author: "Vasco Laranjo"
-comments: true
 ---
 Vegetarianism!
 
@@ -20,7 +19,7 @@ Hopefully...
 
 Last year (2018), me and my girlfriend, who's vegan, were travelling in Southeast Asia - very confident that it would be easy to find feasible meal solutions, considering the reports from our friends who travelled the region. This confidence got a fierce reality check!
 
-Starting in Singapore when we passed by a place in Chinatown named "... Vegetarian", we decided to enter and couldn't help but get surprised while reading "Vegetarian Chicken", "Vegetarian Pork", etc. Basically, no vegetarian options..
+Starting in Singapore when we passed by a place in Chinatown named "... Vegetarian", we decided to enter and couldn't help but get surprised while reading "Vegetarian Chicken", "Vegetarian Pork", etc. Basically, no vegetarian options...
 
 After Singapore we visited Malaysia, where also didn't feel the vegetarianism culture was largely widespread. 
 
@@ -48,7 +47,7 @@ I must admit Brazil came to me as a shocker given the large culture of BEEF in t
 
 In Switzerland it seems the reasons are closely linked to the high cost of meat and also with the vegan-trend factor that is currently flourishing in Europe. 
 
-Finally, Taiwan seems to borrow its reasons from both these country: religion (Budhism) and the fassionable part of being a vegan (from the West)!
+Finally, Taiwan seems to borrow its reasons from both these countries: religion (Buddhism) and the fashionable part of being a vegan (from the West)!
 
 As a final note, it looks like Burger Kind just launched its Rebel Whopper (Whopper's vegetarian option) in Europe.
 

@@ -27,7 +27,7 @@ HDI is an index calculated based on 3 metrics:
 
 As you can perceive, the third metric is very similar to the wealth metric used in the previous article: GDP per capita PPP, as a measure of general standard of living. The other 2 are relatively straightforward metrics.
 
-Indeed we can conclude that this metric provides us more overall information about a country's economic development than just Wealth. 
+Indeed, we can conclude that this metric provides us more overall information about a country's economic development than just Wealth. 
 
 After all, one must agree that without health being wealthy is not that important, so including the "Life Expectancy at Birth" should help concluding on the nicest country to live in. Which after all, is what we are looking for here!
 
@@ -36,11 +36,11 @@ Finally, let's compare wealth by using the metric **GDP per Capita PPP** among c
 ### HDI and Temperature by Country
 
 Below you will see a scatter plot where each circle represents a country and is placed according to HDI (Index) and the Temperature (in Celsius).
-Also for the reader's convenience, the different colours represent the different continent where a country belongs.
+For the reader's convenience, the different colours represent the different continent where a country belongs.
 
-Note that, the data presented is an average between 2010-2016 values, when available. It was decided to take the average, to avoid overstating the figures on speficially warm years for some countries.
+Note that, the data presented is an average between 2010-2016 values, when available. It was decided to take the average, to avoid overstating the figures on specifically warm years for some countries.
 
-Also, it is importatn to remind the reader that *the higher the index the more developed a country is considered to be*.
+Also, it is important to remind the reader that *the higher the index the more developed a country is considered to be*.
 
 Tip: zoom available in the left-bottom corner.
 
@@ -51,8 +51,8 @@ Main conclusions from the figure:
 * There seems to be a negative relationship between Development and Temperature, from the black trendline;
 * Also, this relationship is more negative than the relationship Wealth and Temperature;
 * The European countries are the milder, with most of the EU countries above the trendline;
-* The Middle East countries, known for their Oil & Gas exports, which were outliers as the hottest and wealthiest are now close to some countries in the Caribean and Pacific Ocean;
-* Most of the African countries seem rather isoltaed on the bottom-right corner of the plot.
+* The Middle East countries, known for their Oil & Gas exports, which were outliers as the hottest and wealthiest are now close to some countries in the Caribbean and Pacific Ocean;
+* Most of the African countries seem rather isolated on the bottom-right corner of the plot.
 
 Canada:
 
@@ -70,20 +70,20 @@ Climate is not only about warm temperature! Some readers may not care much about
 
 I found this plot very interesting as it is the most unique of the 4 plots in this series of 2 articles:
 
-* There doesn't seem to be any trend between Human Development and Rainfaill, as there's an horizontal trendline;
+* There doesn't seem to be any trend between Human Development and Rainfall, as there's a horizontal trendline;
 * All the European countries, apart from Moldova, are above the trendline;
 * The Middle East rich countries are now almost on a vertical line in terms of development close to the 0-mark of rainfall;
 * The African countries now seem to be more widespread along the x-axis, although mostly below the trendline;
 
 Israel:
 
-* Shows up now relatively isolated as a country with a high HDI and relatively small rainfall .
+* Shows up now relatively isolated as a country with a high HDI and relatively small rainfall.
 
 Canada, US and Australia:
 
 * Show up close to the European developed countries in the plot.
 
-Don't be shy and share your findings below .
+Don't be shy and share your findings below.
 
 #### HDI and Climate by Country Table
 
