@@ -65,3 +65,22 @@ As a final note, it looks like Burger Kind just launched its Rebel Whopper (Whop
 
 **Code Source:** 
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Vegetarians%20in%20the%20World)
+
+---
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = vasconomics.com;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = vasconomics.com; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://vasconomics.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
