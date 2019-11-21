@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "static/images"
+public_folder: "images"
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/post"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description:", name: "description:", widget: "string", required: true}
+      - {label: "Date", name: "date", widget: "datetime", required: true}
+      - {label: "Author", name: "author", widget: "string", required: true, default: "Vasco Laranjo"}
+      - {label: "Featured_image", name: "featured_image", widget: "image", required: true}
+      - {label: "Tags", name: "tags", widget: "string", required: true}
+
+  
