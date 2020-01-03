@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = yes
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
@@ -31,7 +31,3 @@ enableRobotsTXT = yes
   background_color_class = "bg-black"
   featured_image = "uploads/images/stock_market_new.jpg"
   recent_posts_number = 2
-
-[params.robots]
-  index = true
-  follow = true
