@@ -64,7 +64,7 @@ So far, we have been talking about interest rates without paying attention to wh
 
 Immersing in the topic, I would like to recall the Fisher Effect, which states that the Real Interest rate equals the Nominal Interest rate minus the expected Inflation rate. Unlike the nominal interest rate, the real interest rate considers purchasing power in the equation.
 
-<img src="http://latex.codecogs.com/svg.latex?Real \ Interest \ rate = Nominal \ Interest \ rate - Inflation \ rate"/>
+<img src="https://latex.codecogs.com/svg.latex?Real \ Interest \ rate = Nominal \ Interest \ rate - Inflation \ rate"/>
 
 
 Finally, one can conclude that despite the non-negative deposit interest rates in the current market environment, due to positive inflation the real interest rate becomes negative. Thus, in real terms the depositor is losing money. 
