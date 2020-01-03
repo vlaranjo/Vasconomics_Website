@@ -1,2 +1,5 @@
 User-agent: *
 Disallow:/admin/
+
+#Sitemap file
+Sitemap: https://vasconomics.com/sitemap.xml
