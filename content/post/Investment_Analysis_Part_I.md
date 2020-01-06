@@ -2,7 +2,7 @@
 date: 2020-01-03
 description: "What is Investment Analysis? Let's start with Technical Analysis, should we? "
 featured_image: "uploads/Investment_Analysis_Part_I/trading_floor_nyse.jpg"
-tags: []
+tags: ["Money", "Financial Markets"]
 title: "Investment Analysis, Part 1: Technical Analysis"
 author: "Vasco Laranjo"
 ---
