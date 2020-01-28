@@ -39,9 +39,7 @@ The most common use of *RRG* charts is on Indices, such as the S&P 500 or the Eu
 
 #### Table with Selected World Indices
 
-{{<RRG_Article/Indices_Table>}}
-
-Finally, let’s see how *RRG* charts play out and which of the above indices are leaders and which are laggards!
+The table describing each of the Indices including name, symbol and so on can be viewed here: [Table](https://github.com/vlaranjo/Vasconomics_Materials/blob/master/Articles/RRG/Stock_Indices.csv)
 
 #### RRG for World Indices
 
