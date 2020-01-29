@@ -1,5 +1,5 @@
 ---
-date: 2020-01-27
+date: 2020-01-29
 description: "Who's the Leader and the Lagger in the Financial Market now?"
 featured_image: "uploads/RRG/RRG_Cover.jpg"
 tags: ["Money", "Financial Markets"]
