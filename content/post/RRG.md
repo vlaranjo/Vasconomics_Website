@@ -43,7 +43,7 @@ The table describing each of the Indices including name, symbol and so on can be
 
 #### RRG for World Indices
 
-*Note: data as of 24th of January end of the day.*
+*Note: data as of 23rd of January end of the day. For COLCAP, an ETF (NYSE ARCA: GXG) was used as reference since the index was not available in Yahoo Finance.*
 
 {{<RRG_Article/ScatterPlot_1Period>}}
 
