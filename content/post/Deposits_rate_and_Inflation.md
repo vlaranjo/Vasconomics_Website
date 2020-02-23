@@ -111,3 +111,5 @@ This article aims at solely clear the three mentioned metrics and educate the re
 - “Paradox of Thrift”: Keynes Inflation Theory – shares an intuition on the reason inflation should be positive;
 - “Quantitative Easing” and “Helicopter Money”;
 - “Japanification of Europe” and “Liquidity Trap”.
+
+**Cover Image Credits:** © No intentions of copyright infringement. Taken from https://steemit.com/steemit/@acassity/stay-calm-breath-in-breath-out-don-t-worry-about-steem-inflation

@@ -86,3 +86,5 @@ Having this in mind, have you found any candidate for an investment opportunity?
 
 * *Techncial Analysis*: "Technical Analysis of the Financial Markets", by John J. Murphy;
 * *Japansese Candlesticks*: "Japanese Candlestick Charting Techniques", by Steve Nison.
+
+**Cover Image Credits:** © BRENDAN MCDERMID | Reuters | Corbis

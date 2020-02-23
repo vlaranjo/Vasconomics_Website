@@ -103,3 +103,5 @@ Don't be shy and share your findings below on the comments area.
 
 **Code Source:** 
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Economic%20Wealth%20and%20Climate)
+
+**Cover Image Credits:** © icemanphotos | shutterstock

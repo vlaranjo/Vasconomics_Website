@@ -72,3 +72,5 @@ What is your take from this analysis? Don’t be scared to share your thoughts a
 
 **Code Source:** 
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/RRGd)
+
+**Cover Image Credits:** © NicoElNino | Alamy Stock Photo

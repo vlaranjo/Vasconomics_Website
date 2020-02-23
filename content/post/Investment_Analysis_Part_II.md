@@ -92,3 +92,5 @@ To conclude with, below I present a table with analyst recommendations including
 
 **Code Source:** 
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Investment%20Analysis)
+
+**Cover Image Credits:** © Monty Rakusen | Getty Images

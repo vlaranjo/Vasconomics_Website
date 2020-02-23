@@ -100,3 +100,5 @@ UN HDR: [HDI] (http://hdr.undp.org/en/data)
 
 **Code Source:** 
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Development%20and%20Climate)
+
+**Cover Image Credits:** © No intentions of copyright infringement. Taken from https://au.exoticca.com/america/caribbean/bahamas/paradise-island
