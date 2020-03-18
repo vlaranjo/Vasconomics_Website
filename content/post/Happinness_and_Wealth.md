@@ -13,7 +13,7 @@ Everybody is searching for happiness! Many people say that money doesn't buy hap
 
 ### Wealth
 
-In a previous [article]( https://vasconomics.com/post/economic_wealth_and_climate/), when referring to Wealth I presented the metric GDP per Capita PPP. However, in this one I will use Gross National Income (GNI) per capita PPP since it is the metric used in the calculation of the Human Development Index (HDI) and it looks reasonable to me.
+In a previous [article]( https://vasconomics.com/post/economic_wealth_and_climate/) when referring to Wealth, I presented the metric GDP per Capita PPP. However, in this one I will use Gross National Income (GNI) per capita PPP since it is the metric used in the calculation of the Human Development Index (HDI) and it looks reasonable to me.
 
 > **Gross National Income (GNI)**: is a measure of a country's income, including all the income earned by a country's residents and businesses, which comprises income earned abroad. Oppositely to GDP, it does not account for income earned by foreigners located in the country.
 
@@ -23,7 +23,7 @@ In that sense, the contrast between GNI and GDP is that the former includes inco
 
 > **GNI per capita PPP** adjusts the GNI per capita by considering the standards of living between countries through a “basket of goods” approach. Thus, it presents a more consistent metric to make a comparison between different countries.
 
-Now that the definitions are clear and that the metric presented is consistent for a comparison between countries let’s have a look at the world map. The values for the GNI presented are the latest available corresponding to 2018 and are shown in in thousands of dollars.
+Now that the definitions are clear and that the metric presented is consistent for a comparison between countries, let’s have a look at the world map. The values for the GNI presented are the latest available corresponding to 2018 and are shown in thousands of dollars.
 
 Tip: zoom and other functions available on the right corner, in all the graphs presented.
 
@@ -44,7 +44,7 @@ As we did for the GNI per capita PPP, let’s have a look at the Happiness score
 
 {{<Happinness_and_Wealth_Article/Happiness_Map>}}
 
-Despite large of red and yellow areas, the last map presented a “happier” view (pun intended) of the world. Indeed, there is a greater dispersion of happiness vs sadness, in comparison to the spread of wealth. The Western world characterized by Europe, North America and Australia shows larger green areas, whereas Africa the more reddish ones, which unfortunately may not be a surprise for the reader.
+Despite large red and yellow areas, the last map presented a “happier” view (pun intended) of the world. Indeed, there is a greater dispersion of happiness vs sadness, in comparison to the spread of wealth. The Western world characterized by Europe, North America and Australia shows larger green areas, whereas Africa the more reddish ones, which unfortunately may not be a surprise for the reader.
 
 We came to the point where both Wealth and Happiness were seen, so it is now time to observe the relation between these two.
 
@@ -54,7 +54,7 @@ In this section, I present a scatter plot displaying the relation between our me
 
 {{<Happinness_and_Wealth_Article/Happiness_vs_Wealth>}}
 
-When looking at the graph it is possible to see a clear positive trendline indicating that more money brings more happiness. Also, we see the incredible outliers in terms of GNI per capita PPP from the Middle East: Qatar, Kuwait and UAE. Notwithstanding, there is a clear outlier on the happiness side: Costa Rica (Pura Vida!). Finally, it is interesting to consider the contrasts on a continent level: despite being very low positioned in terms of Wealth, the poorest countries in North America are much happier than the poor African countries.
+When looking at the graph it is possible to see a clear positive trendline indicating that more money brings more happiness. Also, we see the incredible outliers in terms of GNI per capita PPP from the Middle East: Qatar, Kuwait and UAE. Notwithstanding, there is a clear outlier on the happiness side: Costa Rica (Pura Vida!). Finally, it is interesting to consider the contrasts on a continent level: despite being very low positioned in terms of Wealth, the poorest countries in North and South America are much happier than the poor African countries.
 
 Therefore, we can also take a different approach to the above question, which is “Money isn´t everything in Life".
 
