@@ -3,12 +3,14 @@ title: "About"
 featured_image: 'uploads/images/stock_market.jpg'
 description: ""
 ---
-{{< figure src="/uploads/images/tulip-mania.jpg" title="Vasco Laranjo" >}}
+Hello, welcome to my blog and the exciting world of Vasconomics!
 
-Hello, welcome to my blog!
 <P> I'm Vasco, a Portuguese Economist with a passion for Economics, Financial Markets and Data Analytics. <P>
-<P> The purpose of this blog is to discuss socio-economic topics showing them in a clear graphic way by using Python.<P>
+<P> The purpose of this blog is to discuss socio-economic and financial markets' related topics showing them in a clear graphic way by using Python coding. <P>
+<p> For those interested in learning Python, I make available all the code used for generating the figures presented in my GitHub page. <P> 
 <P>Hope you enjoy reading them as much as I enjoy writing!
+
+{{< figure src="/uploads/images/tulip-mania.jpg" title="Tulipmania, 1636–1637 in Netherlands " >}}
 
 **Tulip Image Credits:** © No intentions of copyright infringement. Taken from https://steemit.com/steemit/@mischaro/tulip-mania-usd1-8-million-per-tulip-bulb
 
