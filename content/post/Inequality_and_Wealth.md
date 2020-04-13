@@ -31,7 +31,7 @@ Tip: zoom and other functions available on the right corner, in all the graphs p
 
 The first conclusion we can take from the map above is that inequality is focused on Central and South America, as well as, Southern Africa. Moreover, the most alarming countries in terms of inequality seem to be South Africa, from the strong red color denoting high inequality; and <abbr title=The cover image is from a condominium in Paraisópolis, a neighborhood in São Paulo>Brazil</abbr>, from its large size and orange color clear in the world map. 
 
-On the other hand, Europe, the old continent, looks like the “greener” area leaded by the Nordic countries (unsurprisingly) and Eastern Europe Countries (probably a bit more surprising). Also, it is interesting to note, in these times of Trade War between the USA and China, that China presents a lower level of inequality compared to USA. As I don’t want to get too much involved in politics, I allow the rest of the conclusions to lay on the readers’ side.
+On the other hand, Europe, the old continent, looks like the “greener” area leaded by the Nordic countries (unsurprisingly) and Eastern Europe Countries (probably a bit more surprising). Also, it is interesting to note, in these times of Trade War between the USA and China, that China presents a lower level of inequality compared to the USA. As I don’t want to get too much involved in politics, I allow the rest of the conclusions to lay on the readers’ side.
 
 ### Wealth
 
@@ -50,7 +50,7 @@ Similarly to what we did for the Gini Index, let’s have a look at the world ma
  *Most of the values shown are for 2017, otherwise the latest data available down to 2013.
 Note: in the previous [article] (https://vasconomics.com/post/happinness_and_wealth/) a wider range of countries were included, however, here it was decided to solely present the countries for which Gini index values were available.
 
-In this map, we sadly observe much more orange and red-like colors than in the previous one. Thus, indicating high inequality across the globe. The clear view here is that the wealthiest countries appear to be in the Western world: Europe, especially Nordic countries and Central Europe; USA and Canada; and Australia. 
+In this map, we sadly observe much more orange and red-like colors than in the previous one. Thus, indicating high inequality across the globe. The clear view here is that the wealthiest countries appear to be in the Western world: Europe, especially Nordic countries and Central Europe; the USA and Canada; and Australia. 
 
 On the other side, the poorest countries seem to be, again, situated in Central and South America, as well as, in Africa. Nevertheless, it is now interesting to note that the poorest countries in Africa are not the ones where we observed the highest inequality, the Southern African countries. Furthermore, this observation is also seen in Eastern Europe countries, which appear to be the poorest countries in Europe, but before were the ones where we observed the lower levels of inequality.
 
@@ -64,7 +64,7 @@ In this section, I present a scatter plot displaying the relationship between ou
 
 Here I would like to remind the reader that lower levels of Gini Index indicate a lower level of Inequality, that is, more equality between the distribution of income among individuals within a country. In that sense, when we see the negative trendline in the scatter plot it indicates that *wealthier countries are providing higher equality to their citizens*. 
 
-Nonetheless, one cannot avoid spotting that the country with the lowest level of inequality, Ukraine, is the second poorest in Europe, right after Moldova which also presents a very low level of inequality.  When looking at the country with the highest level of Inequality, we find South Africa, which is also the third richest country in Africa by GNI per capita PPP. Therefore, here we see a tale of two worlds: poor countries with high equality and rich countries with high inequality. In addition to this view of dispersion in the world, another outlier surges: USA, which is one of the richest countries in the world but, at the same time, presents a level of inequality greater than any European country.
+Nonetheless, one cannot avoid spotting that the country with the lowest level of inequality, Ukraine, is the second poorest in Europe, right after Moldova which also presents a very low level of inequality.  When looking at the country with the highest level of Inequality, we find South Africa, which is also the third richest country in Africa by GNI per capita PPP. Therefore, here we see a tale of two worlds: poor countries with high equality and rich countries with high inequality. In addition to this view of dispersion in the world, another outlier surges: the USA, which is one of the richest countries in the world but, at the same time, presents a level of inequality greater than any European country.
 
 All in all, this scatter plot indicates that richer countries provide higher levels of equality to their citizens. Yet, it was important to notice the outliers, that is, the dispersion in the results among countries. In that sense, I found it was relevant to see the timeline evolution in Inequality vis-à-vis Wealth. In other words, does the increase in a country’s Wealth provide a reduction in its Inequality levels?
 
