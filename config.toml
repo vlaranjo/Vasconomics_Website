@@ -8,7 +8,6 @@ timeout = 90000
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
 Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -34,4 +33,20 @@ enableRobotsTXT = true
   featured_image = "uploads/images/stock_market_new.jpg"
   recent_posts_number = 4
 
+  mainSections = ["post"]
+
   env = "production"
+
+[menu]
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    identifier = "about"
+    url = "/about/"
+
+  [[menu.main]]
+    name = "Articles"
+    weight = 2
+    identifier = "articles"
+    url = "/post/"
