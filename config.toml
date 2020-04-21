@@ -4,7 +4,7 @@ disqusShortname="vasconomics"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
-timeout = 90000
+timeout = 95000
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
