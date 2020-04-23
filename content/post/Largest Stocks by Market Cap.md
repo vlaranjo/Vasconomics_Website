@@ -6,7 +6,7 @@ tags: []
 title: "Largest Stocks by Market Cap"
 author: "Vasco Laranjo"
 ---
-In the last century, we observed a high growth in technological innovation which was later boosted by the creation of the Internet. The rise of the Internet was a <abbr title=" Taleb’s Black Swan theory ">Black Swan </abbr>, which would then fuel a notorious bubble in the stock market: the *Dot.com Bubble*. 
+In the last century, we observed a high growth in technological innovation which was later boosted by the creation of the Internet. The rise of the Internet was a <abbr title=" Taleb’s Black Swan theory ">Black Swan</abbr>, which would then fuel a notorious bubble in the stock market: the *Dot.com Bubble*. 
 
 Stock valuations for companies with businesses focused around the use of Internet became highly inflated and continued to grow as a sort of speculative mania for companies whose name finished with “.com”. However, poor management and lack of a solid business plan would prove that these valuations were too high and, eventually, the bubble burst in 2000, erasing many companies. One of the most infamous cases discussed is the one of “Pets.com”. On the other hand, some of those companies had strong management, as well as, a solid business plan and finances. A good example here is “Amazon” which is one of the largest American companies, in terms of market cap.
 
