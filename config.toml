@@ -9,7 +9,7 @@ timeout = 95000
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-164387603-1"
 enableRobotsTXT = true
 
 [sitemap]
