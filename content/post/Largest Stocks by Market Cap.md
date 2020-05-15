@@ -2,7 +2,7 @@
 date: 2020-04-22
 description: "Visualizing Companies' Size by Stock Market Value"
 featured_image: "uploads/Largest_Companies_by_Marketc_Cap/Largest_Companies_by_Marketc_Cap_Cover.jpg"
-tags: []
+tags: ["Money", "Financial Markets"]
 title: "Largest Stocks by Market Cap"
 author: "Vasco Laranjo"
 ---
