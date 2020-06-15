@@ -22,7 +22,7 @@ To begin with, it is important to define what is Sovereign Debt and how is it ra
 
 Having defined sovereign debt, it is now time to look at the total sovereign debt distribution between countries. In order to do that, I will present below a Treemap with the General Government Gross Debt by country for 2019, with data obtained from the IMF Cross Country Macroeconomic Statistics.  If you are interested in learning how to generate this and the following figures using Python, please refer to the Code Source section at the bottom of the article.
 
-#### General Government Gross Debt by country for 2019
+#### General Government Gross Debt (in USD Billions), by country, in 2019
 
 <div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden;">
   <iframe src="https://vasconomics.com/special_graphs/debt_by_country/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="SP500 by sector" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
