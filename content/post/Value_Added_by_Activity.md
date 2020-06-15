@@ -2,7 +2,7 @@
 date: 2020-02-23
 description: "What are the biggest Sectors in my Country's Economy?"
 featured_image: "uploads/Value_Added_by_Activity/GVA_cover.jpg"
-tags: []
+tags: ["Economy"]
 title: "Valued Added by Activity in Different Countries"
 author: "Vasco Laranjo"
 ---
