@@ -71,6 +71,6 @@ What is your take from this analysis? Don’t be scared to share your thoughts a
 **Data Source:** [Yahoo Finance](https://finance.yahoo.com/)
 
 **Code Source:** 
-[GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/RRGd)
+[GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/RRG)
 
 **Cover Image Credits:** © NicoElNino | Alamy Stock Photo
