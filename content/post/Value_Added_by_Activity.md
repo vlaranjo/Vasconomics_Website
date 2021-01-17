@@ -44,7 +44,7 @@ Did you also find interesting stats about your country or another one? Don't be 
 ---
 ### Sources
 
-**Data Source:** [OECD Stats] (httpshttps://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Value%20Added%20by%20Activity://stats.oecd.org/#)
+**Data Source:** [OECD Stats] (https://data.oecd.org/)
 
 **Code Source:**
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Value%20Added%20by%20Activity)
