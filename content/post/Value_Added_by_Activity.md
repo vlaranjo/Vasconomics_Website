@@ -33,7 +33,7 @@ Lastly, when navigating the Treemamp please notice that by clicking in each coun
 
 #### Treemap Value Added by Activity, by Country
 
-{{<Value_Added_by_Activity_Article/Treemap_Value_Added>}}
+{{<Value_Added_by_Activity_Article/Treemap_Value_Added_by_Activity_Plotly>}}
 
 Now it’s the moment of truth to see the contribution values of the shoemaking (Manufacturing of Textiles, Wearing Apparel and Other) and Cork industries (Manufacturing of Wood and Products of Wood and Cork). In the end, it turns out that their share on the total GVA for Portugal is 2.5% and 0.59%, respectively. These are relatively small contributions but comparatively to other countries they can be deemed as large, to be honest.
 
