@@ -36,9 +36,7 @@ The data presented refers to the end of last quarter, that is, 31st March of 202
 
 The Treemap below presents the S&P500 companies by Market Cap with a division by sector through clicking:
 
-<div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden;">
-  <iframe src="https://vasconomics.com/special_graphs/sp500_by_sector/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="SP500 by sector" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div>
+{{<Largest_Stock_by_Market_Cap_Article/SP500_Treemap>}}
 
  The reader will now understand the references to the technological sector in the introduction. 
  
@@ -57,9 +55,7 @@ The treemap below presents the STOXX600 companies by Market Cap with a division 
 
 #### STOXX600 companies Market Cap, by Country and Sector
 
-<div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden;">
-  <iframe src="https://vasconomics.com/special_graphs/eurostoxx_by_country/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="STOXX by country" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div>
+{{<Largest_Stock_by_Market_Cap_Article/Stoxx_Treemap_Country_then_Sector>}}
 
 The first surprise here is to note that the biggest square, that is, the country whose stocks have the largest share in the index, is not Germany. Germany is the biggest economy of the European Union and the fourth biggest economy in the world, when looking at the Gross Domestic Product (GDP). This is again a reminder for the reader to realize that the stock market, many times, does not represent what is happening in the economy. A example on this is just to look at the stock market dynamics during the Covid-19 (SARS-CoV-2) pandemic: late reaction and fast optimism despite its economic effects.
 
@@ -71,9 +67,7 @@ Intrigued by this, let’s use this as a motivation to have a look at the STOXX6
 
 #### STOXX600 companies Market Cap, by Sector and Country
 
-<div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden;">
-  <iframe src="https://vasconomics.com/special_graphs/eurostoxx_by_sector/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="STOXX by sector" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div>
+{{<Largest_Stock_by_Market_Cap_Article/Stoxx_Treemap_Sector_then_Country>}}
 
 The last graph offers a large contrast of the STOXX600 and the S&P500. 
 
