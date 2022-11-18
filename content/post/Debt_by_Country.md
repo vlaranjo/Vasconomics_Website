@@ -24,9 +24,7 @@ Having defined sovereign debt, let's look at the total sovereign debt distributi
 
 #### General Government Gross Debt (in USD Billions), by country, in 2019
 
-<div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden;">
-  <iframe src="https://vasconomics.com/special_graphs/debt_by_country/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="SP500 by sector" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div>
+{{<Debt_by_Country_Article/Debt_by_Country_Treemap_Plotly>}}
 
 The United States are the biggest economy in the world; therefore, it probably does not come as a big surprise that it is also the country with the largest amount of debt. On the other hand, when looking at the second and third place we already find a catch: China has the second biggest GDP in the world, followed by Japan, but the latter has a bigger sovereign debt than China.
 
