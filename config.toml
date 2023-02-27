@@ -51,6 +51,12 @@ enableRobotsTXT = true
   identifier = "articles"
   url = "/post/"
 
+[[menu.main]]
+  name = "Privacy"
+  weight = 3
+  identifier = "Privacy"
+  url = "/privacy/"
+
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
