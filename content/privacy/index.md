@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-featured_image: 'images/stock_market.jpg'
+featured_image: 'uploads/images/stock_market.jpg'
 description: ""
 ---
 
