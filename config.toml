@@ -45,8 +45,8 @@ enableRobotsTXT = true
     identifier = "about"
     url = "/about/"
 
-  [[menu.main]]
-    name = "Articles"
-    weight = 2
-    identifier = "articles"
-    url = "/post/"
+[[menu.main]]
+  name = "Articles"
+  weight = 2
+  identifier = "articles"
+  url = "/post/"
