@@ -50,3 +50,10 @@ enableRobotsTXT = true
   weight = 2
   identifier = "articles"
   url = "/post/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
