@@ -63,3 +63,7 @@ enableRobotsTXT = true
     disable = false
     respectDoNotTrack = true
     useSessionStorage = false
+
+
+  [privacy.disqus]
+    disable = false
