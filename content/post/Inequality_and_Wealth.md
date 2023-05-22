@@ -4,7 +4,7 @@ description: "Are Inequality levels higher in Poorer countries?"
 featured_image: "uploads/Inequality_and_Wealth/Inequality_and_Wealth_Cover.jpg"
 tags: ["Economy", "Inequality"]
 title: "Inequality and Wealth"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 
 ### Inequality Matters!

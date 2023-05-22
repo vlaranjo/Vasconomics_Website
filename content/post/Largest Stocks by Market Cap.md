@@ -4,7 +4,7 @@ description: "Visualizing Companies' Size by Stock Market Value"
 featured_image: "uploads/Largest_Companies_by_Marketc_Cap/Largest_Companies_by_Marketc_Cap_Cover.jpg"
 tags: ["Money", "Financial Markets"]
 title: "Largest Stocks by Market Cap"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 In the last century, we observed a high growth in technological innovation which was later boosted by the creation of the Internet. The rise of the Internet was a <abbr title=" Taleb’s Black Swan theory ">Black Swan</abbr>, which would then fuel a notorious bubble in the stock market: the *Dot.com Bubble*. 
 
@@ -96,3 +96,8 @@ As a final note, it is hard not to find it intriguing that, despite all the nega
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Largest%20Stocks%20by%20Market%20Cap)
 
 **Cover Image Credits:**  © No intentions of copyright infringement. Taken from https://thesponge.com.au/brand-name-creation/how-to-name-your-brand-like-the-10-most-valuable-global-brands-do/
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

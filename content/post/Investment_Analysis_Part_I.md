@@ -4,7 +4,7 @@ description: "What is Investment Analysis? Let's start with Technical Analysis, 
 featured_image: "uploads/Investment_Analysis_Part_I/trading_floor_nyse.jpg"
 tags: ["Money", "Financial Markets"]
 title: "Investment Analysis, Part 1: Technical Analysis"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 
 In this article, I will discuss the topic of Investment Analysis, that is, the method used for making the decision regarding an investment in the stock market. There are two main approaches when undertaking the analysis of a stock traded in the market: Technical and Fundamental Analysis. It is important to understand that these methods use different inputs with the same goal of evaluating an investment opportunity.
@@ -88,3 +88,8 @@ Having this in mind, have you found any candidate for an investment opportunity?
 * *Japansese Candlesticks*: "Japanese Candlestick Charting Techniques", by Steve Nison.
 
 **Cover Image Credits:** © BRENDAN MCDERMID | Reuters | Corbis
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

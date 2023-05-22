@@ -4,7 +4,7 @@ description: "How can I assess the probability that a firm is manipulating earni
 featured_image: "uploads/Earnings_Manipulation/Earnings_Manipulation_Cover.png"
 tags: ["Financial Markets", "Economy"]
 title: "Earnings Manipulation Detection with Beneish M-Score"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 The earnings quarterly reporting of publicly-listed companies puts enormous pressure on them to deliver continuously better results. Investors and analysts look at these figures very closely in expectation of continued growth. This pressure may lead to creative accounting practices called “earnings management”.  As we know, these practices can escalate into earnings manipulation, as in the infamous Enron and Bernie Madoff accounting scandals. In this article, I will look at a metric that assesses the likelihood of a company manipulating its earnings and apply it to the Russell 3000 Index.
 
@@ -122,3 +122,8 @@ Overall, given the recognition in the financial industry and the results achieve
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Earnings%20Manipulation%20Detection%20with%20Beneish%20M-Score)
 
 **Cover Image Credits:**  © messomx / ID: 1244459 / Pixabay.com
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

@@ -4,7 +4,7 @@ description: "Are the richest countries always colder than poor countries?"
 featured_image: "uploads/Economic_Wealth_and_Climate/Golden-Beach.jpg"
 tags: ["Economy", "Climate"]
 title: "Economic Wealth and Climate"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 When in university in the early 2010's in Portugal, me and my colleagues would discuss whether all the richest countries had to be the ones with the worse weather. The worse weather for us represented cold temperatures and this vision made sense for us based on a Southern European country and glancing at Northern counterparts, such as Germany or Norway.
 

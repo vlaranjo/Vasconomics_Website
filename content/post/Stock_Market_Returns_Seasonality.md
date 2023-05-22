@@ -4,7 +4,7 @@ description: "Are there months when the stock market returns are higher than usu
 featured_image: "uploads/Stock_Market_Returns_Seasonality/Stock_Market_Returns_Seasonality_Cover.jpg"
 tags: ["Money", "Financial Markets"]
 title: "Stock Market Returns Seasonality"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 After over two years away, Vasconomics is finally back! Following an incredible January in the financial markets that reminded me of the January effect, I started wondering about stock market seasonality. From the January effect to the “Sell in May and Go Away” adage, monthly return seasonality is something that comes to investors’ mind from time to time.  In this article we will look at the S&P 500 Index and the S&P 500 Sector Indices historical monthly returns in search of seasonality patterns.
 
@@ -53,3 +53,8 @@ To complement the analysis, below I present a chart similar to the first one wit
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Stock%20Market%20Returns%20Seasonality)
 
 **Cover Image Credits:**  © Horrigans/ ID: 3499943659/Flickr.com
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

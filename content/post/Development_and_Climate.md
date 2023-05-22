@@ -4,7 +4,7 @@ description: "I want to live in a warm and developed country! Where do I go?"
 featured_image: "uploads/Development_and_Climate/paradise-island.jpg"
 tags: ["Economy", "Climate"]
 title: "Development and Climate"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 I hope you enjoyed my previous [article] (https://vasconomics.com/post/economic_wealth_and_climate/) about the relationship between Economic Wealth and Climate.
 

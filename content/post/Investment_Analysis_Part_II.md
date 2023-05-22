@@ -4,7 +4,7 @@ description: "Now that I know what is Technical Analysis, what's Fundamental Ana
 featured_image: "uploads/Investment_Analysis_Part_II/Fundamental_Analysis_cover.jpg"
 tags: ["Money", "Financial Markets"]
 title: "Investment Analysis, Part 2: Fundamental Analysis"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 
 This article on Investment Analysis is the second part of a series comprising two articles. In the first [article](https://vasconomics.com/post/investment_analysis_part_i/) I focused on *Technical Analysis* providing firstly a comparison with Fundamental Analysis, later an introduction to its foundations and concluding with an overview of the application of some of its indicators. Now, on this second part, I will focus on *Fundamental Analysis*. The structure of the article is divided into 4 parts: an immersion on Fundamental Analysis framework, a summary of the Multiples Approach application and the link with the topic of Analysts’ Recommendations.
@@ -94,3 +94,8 @@ To conclude with, below I present a table with analyst recommendations including
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Investment%20Analysis)
 
 **Cover Image Credits:** © Monty Rakusen | Getty Images
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

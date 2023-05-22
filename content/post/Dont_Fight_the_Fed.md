@@ -4,7 +4,7 @@ description: "How does the Fed rate monetary policy impacts the stock market?"
 featured_image: "uploads/Dont_Fight_the_Fed/Dont_Fight_the_Fed_Cover.jpg"
 tags: ["Financial Markets", "Economy", "Money"]
 title: "Don't Fight the Fed"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 There is a mantra in the investment community that goes by “Don’t Fight the Fed”. It suggests that investors should align their decisions with those taken by the Fed, and more specifically the Federal Open Market Committee (FOMC), regarding reference rates. At the moment we are experiencing the fastest Fed Rate Hiking Cycle ever, as described in the previous [article] (https://vasconomics.com/post/reference_rate_and_inflation/), and the S&P 500 Index is close to 15% below its early 2022 all-time high it seems prudent to live by this mantra. But was it always like this? In this article, I will explore how the S&P 500 Index behaved during previous reference rate hiking and cutting cycles.
 
@@ -65,3 +65,8 @@ Every cycle is different, be it hiking or cutting. However, it appears that stoc
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Dont%20Fight%20the%20Fed)
 
 **Cover Image Credits:**  © snow0810/ ID: 6060114798/ Flickr.com
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

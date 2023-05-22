@@ -4,7 +4,7 @@ description: "Why am I not making any money with my bank deposits?"
 featured_image: "uploads/Deposits_and_Inflation/Inflation_image.jpg"
 tags: ["Economy", "Money"]
 title: "Deposits and Inflation"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 
 In this article I intend to explain the concepts of Nominal Interest rate, Inflation and Real Interest rate. I believe that the general public knows the first two concepts, however, I am not so sure about the third one. Therefore, the final goal is to understand this last concept by having a thorough view of all the concepts and observe their representation.

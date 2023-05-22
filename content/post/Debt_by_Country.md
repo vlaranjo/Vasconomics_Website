@@ -4,7 +4,7 @@ description: "Government Debt Value, Comparison between Countries and Evolution"
 featured_image: "uploads/Debt_by_Country/Debt_by_Country_Cover.jpg"
 tags: ["Economy", "Money"]
 title: "Sovereign Debt by Country"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 Covid-19 and the urge to lockdown countries had a sudden economic impact never seen before. Some mentioned that the pandemic’s impact was sort of a combined impact of the Spanish Flu and the Great Depression together, and at the same time. On the other hand, there was a major difference when it comes to the economic impact, in that the Governmental and Central Banks’ response was much faster now than it was during the Great Depression. Moreover, this response was utterly faster than it was in the GFC in 2007-2008. 
 

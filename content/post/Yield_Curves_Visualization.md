@@ -4,7 +4,7 @@ description: "The Yield Curves 101"
 featured_image: "uploads/Yield_Curves_Visualization/Yield_Curves_Visualization_Cover.jpg"
 tags: ["Financial Markets", "Economy"]
 title: "Yield Curves: Visualization"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 The Yield Curve Flattening, Yield Curve Inversion, Yield Curve Control, Yield Curve Manipulation…
 
@@ -103,3 +103,8 @@ In other words, investors perceived an increase in the risk of Portuguese Treasu
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Yield%20Curves%20Visualization)
 
 **Cover Image Credits:**  © Dan Smith / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg#filelinks) / [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

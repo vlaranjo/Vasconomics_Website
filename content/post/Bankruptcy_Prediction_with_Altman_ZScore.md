@@ -4,7 +4,7 @@ description: "How can I assess the probability that a firm will file for bankrup
 featured_image: "uploads/Bankruptcy_Prediction_with_Altman_ZScore/Bankruptcy_Prediction_with_Altman_ZScore_Article_Cover.jpg"
 tags: ["Financial Markets", "Economy"]
 title: "Bankruptcy Prediction with Altman Z-Score"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 “Recession” seems to be one of the most debated topics since mid-2022. As the economic slowdown concerns were gradually easing at the start of the year, last month’s global banking crisis helped refuel those fears again. While the recession doesn’t come, it might be prudent to get ready for it. And what happens when we enter a recession? Bankruptcies… In this article, I will look at a measure that assesses the probability that a firm will file for bankruptcy and apply it to the Russell 3000 Index.
 
@@ -101,3 +101,8 @@ All in all, given its recognition within the financial industry and the results 
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Bankruptcy%20Prediction%20with%20Altman%20Z-Score)
 
 **Cover Image Credits:**  © Jernej Furman / ID: 52368890939 / Flickr.com
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

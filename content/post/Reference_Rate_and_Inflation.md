@@ -4,7 +4,7 @@ description: "How does the current Fed rate hiking cycle compare with previous o
 featured_image: "uploads/Reference_Rate_and_Inflation/Reference_Rate_and_Inflation_Cover.jpg"
 tags: ["Financial Markets", "Economy", "Money"]
 title: "Fed Reference Rate and US Inflation"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 Happy Fed Week! After the tumultuous last two weeks, which saw the most severe bank failures since the Global Financial Crisis, this week we will have a highly anticipated FOMC meeting with an anxiously expected Fed Interest rate decision due on Wednesday. Considering the current Fed rate hike path and inflation dynamics, I decided to write this article to look through the previous Fed rate hike cycles.
 
@@ -47,3 +47,8 @@ Notwithstanding, after that initial setback, inflation started strongly decreasi
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Reference%20Rates%20and%20Inflation)
 
 **Cover Image Credits:**  © kittysfotos/ ID: 43829892684/ Flickr.com
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

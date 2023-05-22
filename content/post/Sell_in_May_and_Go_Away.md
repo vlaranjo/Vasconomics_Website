@@ -4,7 +4,7 @@ description: "Does it pay off to leave the financial markets during summertime?"
 featured_image: "uploads/Sell_in_May_and_Go_Away/Sell_in_May_and_Go_Away_Cover.jpg"
 tags: ["Money", "Financial Markets"]
 title: "Sell in May and Go Away"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 Every year when May comes, people start dreaming of summer holidays. Also, for those who follows the financial markets, it marks the date when writers remind us of the old saying: “Sell in May and Go Away”. The underlying is relative straightforward as during the summer months there is, typically, less trading activity. On the other hand, some of the late market crashes seem to have happened precisely after the summer holidays: the crash of 2008-2009 started in mid-September and the 2018 Global Stock Market Downturn started at the beginning of October. This year I decided to put this sentence to the test and to analyze if this was indeed reflected in the past and how the overall trend has been evolving.
 
@@ -68,3 +68,8 @@ Finally, it is interesting to note that despite having been more profitable than
 [GitHub Page] (https://github.com/vlaranjo/Vasconomics_Materials/tree/master/Articles/Sell%20in%20May%20and%20Go%20Away)
 
 **Cover Image Credits:**  © Image credited to [Wallpaper List] (http://wallpaperlist.com/summer-and-winter-over-the-road-wallpaper-2337.html)
+
+---
+### Disclosure: 
+
+The information provided on Vasconomics.com is for general informational purposes only and should not be construed as financial advice. The content on this blog is based on the author's personal opinions and research, and it may not be applicable to your individual financial situation. It is always recommended to consult with a qualified financial professional or advisor before making any financial decisions. The author and Vasconomics.com disclaim any liability for any losses or damages incurred as a result of the information provided on this blog.

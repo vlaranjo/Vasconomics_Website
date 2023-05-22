@@ -4,7 +4,7 @@ description: "Can Money Buy Happiness?"
 featured_image: "uploads/Happinness_and_Wealth/Happinness_and_Wealth_Cover.jpg"
 tags: ["Economy", "Happiness"]
 title: "Happiness and Wealth"
-author: "Vasco Laranjo"
+author: "Vasco Laranjo, CFA"
 ---
 
 ### Can Money Buy Happiness?
