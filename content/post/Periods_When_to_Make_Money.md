@@ -16,7 +16,7 @@ It is human nature to make predictions, and humans tend to prefer simplicity ove
 
 ![Periods When to Make Money Leaflet](/uploads/Periods_When_to_Make_Money/Periods_When_to_Make_Money_leaflet.png)
 
-Source: ritholtz.com
+###### Source: ritholtz.com
 
 The chart shows three types of years:
 
