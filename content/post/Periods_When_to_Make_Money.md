@@ -14,7 +14,7 @@ Market timing for bull and bear cycles is an extremely hard task and (probably) 
 
 It is human nature to make predictions, and humans tend to prefer simplicity over complexity. In this sense, having a chart showing different dates defining market cycles is far more attractive than having a complex model with multiple variables that must be regularly fed with new data. This is why the chart named “Period When to make Money” by George Tritch is gaining such a buzz in 2023. At least that’s my take. Note: right-click in "Open image in new tab" to zoom in.
 
-![Periods When to Make Money Leaflet](uploads/Periods_When_to_Make_Money/Periods_When_to_Make_Money_leaflet.png)
+![Periods When to Make Money Leaflet](/uploads/Periods_When_to_Make_Money/Periods_When_to_Make_Money_leaflet.png)
 
 Source: ritholtz.com
 
