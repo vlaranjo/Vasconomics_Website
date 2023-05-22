@@ -5,10 +5,12 @@ description: ""
 ---
 Hello, welcome to my blog and the exciting world of Vasconomics!
 
-<P> I'm Vasco, a Portuguese Economist with a passion for Economics, Financial Markets and Data Analytics. <P>
-<P> The purpose of this blog is to discuss socio-economic and financial markets' related topics showing them in a clear graphic way by using Python coding. <P>
+<P> I'm Vasco, a Portuguese financial analyst with a passion for Financial Markets, Economics, and Data Analytics. <P>
+<P> The purpose of this blog is to discuss financial markets and socio-economic related topics showing them in a clear graphic way by using Python coding. <P>
 <p> For those interested in learning Python, I make available all the code used for generating the figures presented in my GitHub page. <P> 
 <P>Hope you enjoy reading the articles as much as I enjoy writing them!
+
+Credits to my dear wife Sylwia who diligently reviews all the published articles.
 
 {{< figure src="/uploads/images/tulip-mania.jpg" title="Tulipmania, 1636–1637 in Netherlands " >}}
 
