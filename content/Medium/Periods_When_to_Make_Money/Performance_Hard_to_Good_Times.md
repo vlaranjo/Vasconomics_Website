@@ -1,1 +1,0 @@
-{{<Periods_When_to_Make_Money_Article/Performance_Hard_to_Good_Times>}}

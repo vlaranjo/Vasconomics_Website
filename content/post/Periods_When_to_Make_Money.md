@@ -26,7 +26,7 @@ B. Years of good times, when it is suggested to sell owned stocks
 
 C. Years of hard times, when buying stocks is recommended
 
-At first glance, there are some interesting years, such as recommending selling in 1927 (before the Great Depression), 1999 (before the dotcom bubble), 2007 (before the Great Financial Crisis) and 2019 (before Covid-19). Most importantly, the chart suggests buying stocks in 2023 while the S&P 500 Index is 9.6% up on a YTD basis. <sup>1</sup> Therefore, in the next sections, we will see how the stock market has performed in these cycles and compare the market timing strategies using this chart with the classic buy-and-hold strategy.
+At first glance, there are some interesting years, such as recommending selling in 1927 (before the Great Depression), 1999 (before the dotcom bubble), 2007 (before the Great Financial Crisis) and 2019 (before Covid-19). Most importantly, the chart suggests buying stocks in 2023 while the S&P 500 Index is 9.6% up on a YTD basis. <sup>2</sup> Therefore, in the next sections, we will see how the stock market has performed in these cycles and compare the market timing strategies using this chart with the classic buy-and-hold strategy.
 
 ### Market Performance during Highlighted Cycles
 
