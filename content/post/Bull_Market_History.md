@@ -8,7 +8,7 @@ author: "Vasco Laranjo, CFA"
 ---
 The S&P 500® Index entered a bull market just last Thursday. It seems that neither the gloomy economic sentiment nor the Fed’s rate hike campaign can slow the bull’s rage, as the market is currently more than 20% above the lows of last October. Once again, some people are starting to call this the most hated Bull Market rally. Realistically, this is just another case of investor’s myopic behavior, as most previous rallies have been deemed “hated” at some point. It is prudent to avoid such behavioral biases, so in this article we will discuss this aspect of the stock market. First, we will look at previous bull and bear markets and the corresponding statistics, and then analyze subsequent performance after the start of a bull market. 
 
-## The S&P 500® Equal-Weighted Index
+## Bull and Bear Markets Definition
 
 To begin with, let’s start with the definitions of Bull and Bear Markets:
 
