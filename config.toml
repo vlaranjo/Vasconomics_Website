@@ -52,8 +52,14 @@ enableRobotsTXT = true
   url = "/post/"
 
 [[menu.main]]
-  name = "Privacy"
+  name = "Dashboard"
   weight = 3
+  identifier = "dashboard"
+  url = "/dashboard/"
+
+[[menu.main]]
+  name = "Privacy"
+  weight = 4
   identifier = "Privacy"
   url = "/privacy/"
 
