@@ -6,7 +6,7 @@ tags: ["Financial Markets", "Stocks"]
 title: "The Fed Model"
 author: "Vasco Laranjo, CFA"
 ---
-The stock market keeps pushing higher despite recessionary warnings. S&P 500 Index earnings for the most recent quarter are estimated to have risen, albeit at a slower pace than stock prices. As a result, valuations rose, with the P/E estimated at 24.43. <sup>1</sup> On the other hand, U.S. Treasury bond yields reached levels not seen in more than 10 years following the current Fed's rate hike campaign. This comeback of the bonds challenges the former environment of TINA (there is no alternative – to stocks) to mutate to TARA (there are reasonable alternatives). In this article, I will present a tool to assess whether the stock market is fairly priced.
+The US stock market keeps pushing higher despite recessionary warnings. S&P 500 Index earnings for the most recent quarter are estimated to have risen, albeit at a slower pace than stock prices. As a result, valuations rose, with the P/E estimated at 24.43. <sup>1</sup> On the other hand, U.S. Treasury bond yields reached levels not seen in more than 10 years following the current Fed's rate hike campaign. This comeback of the bonds challenges the former environment of TINA (there is no alternative – to stocks) to mutate to TARA (there are reasonable alternatives). In this article, I will present a tool to assess whether the stock market is fairly priced.
 
 ## The Fed Model
 
