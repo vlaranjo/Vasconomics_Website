@@ -24,7 +24,7 @@ Despite all those negative events, volatility has been consistent with the avera
 
 {{<Volatility_Seasonality_Article/Volatility_Seasonality_Curve_graph>}}
 
-###### Source: Yahoo Finance. Period: 1/1/1190 – 8/17/2023. Past performance is not a reliable indicator of future performance.
+###### Source: Yahoo Finance. Period: 1/1/1990 – 8/17/2023. Past performance is not a reliable indicator of future performance.
 
 It is also interesting to note that volatility has increased recently, which is consistent with the average. As we can see, there is a tendency for the VIX index to increase after the end of the summer period. In the next section, the focus will be on identifying some seasonal trends in market volatility.
 
@@ -36,7 +36,7 @@ In the chart below we can see the averages of the VIX index by month and year. A
 
 {{<Volatility_Seasonality_Article/Volatility_Seasonality_Regular_heatmap>}}
 
-###### Source: Yahoo Finance. Period: 1/1/1190 – 8/17/2023. Past performance is not a reliable indicator of future performance.
+###### Source: Yahoo Finance. Period: 1/1/1990 – 8/17/2023. Past performance is not a reliable indicator of future performance.
 
 I also find it interesting that the bursting of the dotcom bubble in 2020 did not lead to a sharp increase in volatility in the S&P 500 Index (from which VIX's is calculated). There was some turbulence in the second half of 2001 and 2002 but far from the orders of magnitude registered in 2008 and 2020.
 
@@ -45,6 +45,8 @@ To better understand the seasonality of stock market volatility, the last chart 
 The earlier indication of increased volatility after the summer is well seen here, as the three months with the highest average volatility are October, September and November, respectively. Moreover, the maximum value for the VIX index was recorded in November (62.64) during the Global Financial Crisis in 2008. On the other hand, it is intriguing to see that the lowest value for the VIX was recorded in October (10.13), which is in stark contrast to the high maximum and average values in that month.
 
 {{<Volatility_Seasonality_Article/Volatility_Seasonality_Statistics_heatmap>}}
+
+###### Source: Yahoo Finance. Period: 1/1/1990 – 8/17/2023. Past performance is not a reliable indicator of future performance.
 
 It is also interesting to observe that the VIX index has relatively high minimums at the start of the year, while the average volatility in these months being rather “average” (no pun intended). At the start of the year, this limited fluctuation range may suggest a cautious stance from investors who anticipate neither significant nor minor moves in the stock market. Then, summertime comes, and the living is easy as volatility clearly edges lower. Finally, the September blues seem to cause volatility in the stock market to rise again.
 
