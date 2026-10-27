@@ -1,0 +1,2 @@
+/tools/market-overlay-charts/    https://market-overlay-charts.netlify.app/          200
+/tools/market-overlay-charts/*   https://market-overlay-charts.netlify.app/:splat    200
