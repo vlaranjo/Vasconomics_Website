@@ -9,9 +9,22 @@
         <ul class="pl0 mr3">
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib pr3">
+            {{ if .HasChildren }}
+            <details class="nav-dropdown">
+              <summary class="hover-white white-90 pointer" title="{{ .Name }}">{{ .Name }}</summary>
+              <ul class="nav-dropdown-list pl0 ma0">
+                {{ range .Children }}
+                <li class="list">
+                  <a class="hover-white no-underline white-90 db" href="{{ .URL }}" title="{{ .Name }} page">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </details>
+            {{ else }}
             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
               {{ .Name }}
             </a>
+            {{ end }}
           </li>
           {{ end }}
         </ul>
@@ -20,3 +33,33 @@
     </div>
   </div>
 </nav>
+<style>
+  .nav-dropdown { position: relative; display: inline-block; }
+  .nav-dropdown > summary { list-style: none; cursor: pointer; }
+  .nav-dropdown > summary::-webkit-details-marker { display: none; }
+  .nav-dropdown > summary::after { content: " \25BE"; font-size: 0.8em; }
+  .nav-dropdown > summary:focus-visible { outline: 2px solid rgba(255,255,255,0.8); outline-offset: 2px; }
+  .nav-dropdown-list {
+    position: absolute; top: 100%; left: -0.75rem; z-index: 50;
+    min-width: 13rem; margin-top: 0.5rem; padding: 0.4rem 0;
+    background: rgba(0, 0, 0, 0.92); border-radius: 4px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  .nav-dropdown-list a { padding: 0.45rem 0.9rem; white-space: nowrap; }
+  .nav-dropdown-list a:hover, .nav-dropdown-list a:focus { background: rgba(255, 255, 255, 0.1); }
+</style>
+<script>
+  // Close an open menu when clicking elsewhere or pressing Escape.
+  document.addEventListener("click", function (e) {
+    document.querySelectorAll("details.nav-dropdown[open]").forEach(function (d) {
+      if (!d.contains(e.target)) d.removeAttribute("open");
+    });
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key !== "Escape") return;
+    document.querySelectorAll("details.nav-dropdown[open]").forEach(function (d) {
+      d.removeAttribute("open");
+      d.querySelector("summary").focus();
+    });
+  });
+</script>

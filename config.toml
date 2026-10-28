@@ -52,8 +52,21 @@ enableRobotsTXT = true
   url = "/post/"
 
 [[menu.main]]
-  name = "Dashboard"
+  name = "Tools"
   weight = 3
+  identifier = "tools"
+
+[[menu.main]]
+  name = "Market Analog Charts"
+  parent = "tools"
+  weight = 1
+  identifier = "market-analog-charts"
+  url = "/tools/market-overlay-charts/"
+
+[[menu.main]]
+  name = "Dashboard"
+  parent = "tools"
+  weight = 2
   identifier = "dashboard"
   url = "/dashboard/"
 
